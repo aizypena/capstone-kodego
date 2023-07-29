@@ -1,0 +1,21 @@
+.img-container {
+    background-image: url("pitx-facade.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: rgba(155, 155, 155, 0);
+    padding: 5% 0;
+}
+
+.text-color {
+    color: #1d439b;
+}
+
+.welcome-txt {
+    font-weight: bolder;
+}
+
+.card-ftr {
+    border: none;
+    background-color: transparent;
+}

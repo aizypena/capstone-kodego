@@ -1,0 +1,28 @@
+.body {
+    color: #414042;
+}
+
+.first-section {
+    padding: 5%;
+    background-color: #f8f5f5;
+}
+
+.terminal-img {
+    width: 100%;
+    height: auto;
+    padding-top: 2%;
+    padding-bottom: 5%;
+}
+
+.vehicles {
+    padding: 0 17%;
+}
+
+.second-section {
+    padding: 5%;
+    width: 100%;
+}
+
+.txt-bolder {
+    font-weight: bold;
+}
